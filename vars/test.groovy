@@ -1,3 +1,3 @@
-def cal(){
+def call(){
     sh 'echo Hello World'
 }
